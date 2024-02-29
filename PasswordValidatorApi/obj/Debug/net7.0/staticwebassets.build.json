@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OE5pYx9+3TFUQbngqx9Kt8VgpnpZ7M7FOepCRmCAmsI=",
+  "Source": "PasswordValidatorApi",
+  "BasePath": "_content/PasswordValidatorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

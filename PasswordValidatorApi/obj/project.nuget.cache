@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2nHgJWnMxtHYAH/HbeB6k6z1Sulzfm2iqKl6F1c09rf/kA5nK2NcivtPeJSh6YSs3GNDXc+ZsYJs5u3TbxuDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiox\\OneDrive\\Área de Trabalho\\workspace\\PasswordValidatorApi\\PasswordValidatorApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\kaiox\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
