@@ -1,6 +1,3 @@
-# PasswordValidator
-Frattina Project
-
 # Password Validator API
 
 ## Descrição
